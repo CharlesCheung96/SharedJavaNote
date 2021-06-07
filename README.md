@@ -35,3 +35,11 @@
 │   ├── **Spring.md**  
 │   └── SystemDesign.md  
 ├── pic  
+
+# 参考资料
+
+- [java核心知识整理](https://www.kancloud.cn/imnotdown1019/java_core_full/1004074)
+- [CS-Note](http://www.cyc2018.xyz/#java)
+
+
+
